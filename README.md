@@ -43,7 +43,7 @@ The only forward approach in the IT & software is that **practicality > theoreti
 <table>
   <tr>
     <td>WhatsApp</td>
-    <td><a href="https://wa.me/+918433682132?text=Hi%20Vinayak%2C%20I%20checked%20your%20projects%20and%20would%20like%20to%20discuss%20a%20potential%20collaboration.%20Let%20me%20know%20when%20you're%20available.">+91 9123686897</a></td>
+    <td><a href="https://wa.me/+918433682132?text=Hi%20Vinayak%2C%20I%20checked%20your%20projects%20and%20would%20like%20to%20discuss%20a%20potential%20collaboration.%20Let%20me%20know%20when%20you're%20available.">+91 8433682132</a></td>
   </tr>
   <tr>
     <td>Email</td>
