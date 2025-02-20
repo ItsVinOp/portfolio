@@ -48,9 +48,3 @@ The only forward approach in the IT & software is that **practicality > theoreti
 </table> 
 
 
-<hr>
-
-
-<hr>
-
-<h3>
