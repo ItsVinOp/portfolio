@@ -29,7 +29,6 @@ Version Control & CI/CD:
 <img style="height:23px" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>  
 <img style="height:23px" title="GitHub Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"/>
 
-https://kushalkumarsaha.com
 
 I&#x27;m Vinayak Shirke, a tech-stack flexible SDE - proficient in Full-Stack,DevOps Engineer.
 
@@ -42,9 +41,19 @@ This website summarizes my work, passion and projects in one corner of the inter
 The only forward approach in the IT & software is that **practicality > theoretical knowledge**.  
 
 <table>
-  <tr><td>Whatsapp</td><td><a href="https://wa.me/+918433682132?text=Hi%20Kushal%2C%20I%20checked%20up%20your%20projects%20and%20would%20like%20to%20commission%20you%20with%20one%20of%20mine.%20Let%20me%20know%20when%20you%20are%20available%20to%20discuss%20further">+91 9123686897</a></td></tr>
-  <tr><td>Email</td><td><a href="mailto:am.vinayakshirke97206@gmail.com">am.vinayakshirke97206@gmail.com</a></td></tr>
-  <tr><td>Linkedin</td></td><td>www.linkedin.com/in/itsvinop</td></tr>
-</table> 
+  <tr>
+    <td>WhatsApp</td>
+    <td><a href="https://wa.me/+918433682132?text=Hi%20Vinayak%2C%20I%20checked%20your%20projects%20and%20would%20like%20to%20discuss%20a%20potential%20collaboration.%20Let%20me%20know%20when%20you're%20available.">+91 9123686897</a></td>
+  </tr>
+  <tr>
+    <td>Email</td>
+    <td><a href="mailto:am.vinayakshirke97206@gmail.com">am.vinayakshirke97206@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td>LinkedIn</td>
+    <td><a href="https://www.linkedin.com/in/itsvinop">www.linkedin.com/in/itsvinop</a></td>
+  </tr>
+</table>
+
 
 
