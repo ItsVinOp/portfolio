@@ -1,16 +1,33 @@
 # SDE & DevOps - Vinayak Shirke
 
-<img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
-<img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
-<img style="height:26px" title="typescript" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png"/> &nbsp;
-<img style="height:26px" title="golang" src="https://imgur.com/PGScK2U.png"/> &nbsp;
-<img style="height:24px" title="mysql" src="https://github.com/user-attachments/assets/ccc57ad3-5beb-480f-b5d8-dddfa3037da3"/> &nbsp;
-<img style="height:25px" title="redis" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png"/> &nbsp;
-<img style="height:24px" title="github actions" src="https://github.com/user-attachments/assets/913c617d-314d-4687-9347-901b7b730717"/> &nbsp;
-<img style="height:25px" title="docker" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png"/> &nbsp;
-<img style="height:24px" title="AWS" src="https://github.com/bcd-kushal/balloondekor/assets/96081625/0204e275-62bf-4d2a-9bbb-dc23c9b6d4d6"/> &nbsp;
-<img style="height:25px" title="ansible" src="https://github.com/user-attachments/assets/8646a17b-8147-4d6d-ab01-6748b346de17"/> &nbsp;
+Frontend:
+<img style="height:23px" title="HTML" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>  
+<img style="height:23px" title="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>  
+<img style="height:23px" title="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"/>  
+<img style="height:23px" title="ReactJS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"/>  
+<img style="height:23px" title="Next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/>  
 
+Backend:
+<img style="height:23px" title="Node.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"/>  
+<img style="height:23px" title="Express.js" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"/>  
+<img style="height:23px" title="Django" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg"/>  
+
+Databases & Storage:
+<img style="height:23px" title="MongoDB" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"/>  
+<img style="height:23px" title="PostgreSQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/>  
+<img style="height:23px" title="MySQL" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"/>  
+
+DevOps & Cloud:
+<img style="height:23px" title="AWS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg"/>  
+<img style="height:23px" title="Jenkins" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg"/>  
+<img style="height:23px" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/>  
+<img style="height:23px" title="Kubernetes" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"/>  
+<img style="height:23px" title="Ansible" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"/>  
+
+Version Control & CI/CD:
+<img style="height:23px" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"/>  
+<img style="height:23px" title="GitHub" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"/>  
+<img style="height:23px" title="GitHub Actions" src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4"/>
 
 https://kushalkumarsaha.com
 
