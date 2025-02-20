@@ -1,4 +1,4 @@
-# SDE & DevOps - Kushal Kumar
+# SDE & DevOps - Vinayak Shirke
 
 <img style="height:23px" title="next.js" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704"/> &nbsp;
 <img style="height:24px" title="tailwind" title="tailwind" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/> &nbsp;
@@ -14,7 +14,7 @@
 
 https://kushalkumarsaha.com
 
-I&#x27;m Kushal Kumar, a tech-stack flexible SDE - proficient in Backend,DevOps and modern UI/UX web design patterns.
+I&#x27;m Vinayak Shirke, a tech-stack flexible SDE - proficient in Full-Stack,DevOps Engineer.
 
 > `Check out old site:` &nbsp; https://portfolio.kushalkumarsaha.com
 
@@ -25,17 +25,14 @@ This website summarizes my work, passion and projects in one corner of the inter
 The only forward approach in the IT & software is that **practicality > theoretical knowledge**.  
 
 <table>
-  <tr><td>Whatsapp</td><td><a href="https://wa.me/+919123686897?text=Hi%20Kushal%2C%20I%20checked%20up%20your%20projects%20and%20would%20like%20to%20commission%20you%20with%20one%20of%20mine.%20Let%20me%20know%20when%20you%20are%20available%20to%20discuss%20further">+91 9123686897</a></td></tr>
-  <tr><td>Email</td><td><a href="mailto:am.kushal02@gmail.com">am.kushal02@gmail.com</a></td></tr>
-  <tr><td>Linkedin</td></td><td>https://linkedin.com/in/dev-kushal/</td></tr>
-  <tr><td>Leetcode</td><td>https://leetcode.com/u/kushal_at_leetcode</td></tr>
-  <tr><td>Discord</td><td>https://discordapp.com/users/628212302004355078</td></tr>
+  <tr><td>Whatsapp</td><td><a href="https://wa.me/+918433682132?text=Hi%20Kushal%2C%20I%20checked%20up%20your%20projects%20and%20would%20like%20to%20commission%20you%20with%20one%20of%20mine.%20Let%20me%20know%20when%20you%20are%20available%20to%20discuss%20further">+91 9123686897</a></td></tr>
+  <tr><td>Email</td><td><a href="mailto:am.kushal02@gmail.com">am.vinayakshirke97206@gmail.com</a></td></tr>
+  <tr><td>Linkedin</td></td><td>www.linkedin.com/in/itsvinop</td></tr>
 </table> 
 
 
 <hr>
 
-## ⚖️ License
 
 This project is licensed under the MIT License - see the <a href=''>LICENSE</a> file for details.
 
