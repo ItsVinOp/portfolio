@@ -26,7 +26,7 @@ The only forward approach in the IT & software is that **practicality > theoreti
 
 <table>
   <tr><td>Whatsapp</td><td><a href="https://wa.me/+918433682132?text=Hi%20Kushal%2C%20I%20checked%20up%20your%20projects%20and%20would%20like%20to%20commission%20you%20with%20one%20of%20mine.%20Let%20me%20know%20when%20you%20are%20available%20to%20discuss%20further">+91 9123686897</a></td></tr>
-  <tr><td>Email</td><td><a href="mailto:am.kushal02@gmail.com">am.vinayakshirke97206@gmail.com</a></td></tr>
+  <tr><td>Email</td><td><a href="mailto:am.vinayakshirke97206@gmail.com">am.vinayakshirke97206@gmail.com</a></td></tr>
   <tr><td>Linkedin</td></td><td>www.linkedin.com/in/itsvinop</td></tr>
 </table> 
 
